@@ -8,7 +8,7 @@ Model was trained using a subset of the Tiny ImageNet database in order to faste
 
 ![deep_steganogrpahy](./docs/example.png)
 
-(Yeah, this implementation sure has room for improvement. In the future I may train with larger images, train on larger subset, vary the learning rates, experiment different batch sizes)
+(Yeah, this implementation sure has room for improvement. In the future I may train with larger images, train on a larger subset, vary the learning rates, experiment different batch sizes)
 
 
 ## Simplified model topology:
